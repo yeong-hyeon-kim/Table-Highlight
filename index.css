@@ -1,0 +1,32 @@
+table {
+    border-width: 1px;
+    border-style: solid;
+    border-collapse: collapse;
+}
+
+tr {
+    border-width: 1px;
+    border-style: solid;
+}
+
+th {
+    top: 0px;
+    width: auto;
+    padding: 5px;
+    position: sticky;
+    line-height: normal;
+    vertical-align: middle;
+    border-width: 1px;
+    border-style: solid;
+}
+
+td {
+    border-width: 1px;
+    border-style: solid;
+    vertical-align: middle;
+    padding: 3px;
+}
+
+input {
+    margin: 10px;
+}
