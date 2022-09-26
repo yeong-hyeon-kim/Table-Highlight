@@ -11,13 +11,13 @@
 
 ## 💡 사용 예제(Usage Example)
 
-### Example
+### 예제(Example)
 
 ```html
 <input type="search" placeholder="Search..." title="search" oninput="rowHighlight(this.value,'#TableBody','tr','#0AA1DD','#FFF')">
 ```
 
-### Description
+### 매개 변수 설명(Parameter Description)
 
 ```html
 <input type="search" placeholder="Search..." title="search" oninput="rowHighlight({0},{1},{2},{3},{4})">
