@@ -1,6 +1,6 @@
 # 📕 Table Highlight
 
-> 테이블(Table)에서 검색어(Search Text)를 찾아 강조 표시합니다.
+> 테이블(Table)에서 검색어(Search Text)를 찾아 표시합니다.
 
 ## 🏷️ 기능(Function)
 
