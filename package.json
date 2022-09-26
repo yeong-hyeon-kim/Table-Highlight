@@ -1,16 +1,27 @@
 {
   "name": "table-highlight",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "dependencies": {
-    "commander": "^9.4.0"
+  "description": "Locate and highlight the search term in the table.",
+  "main": "dist/index.js",
+  "directories": {
+    "example": "examples"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeong-hyeon-kim/Table-Highlight.git"
+  },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": {
+    "name": "Yeonghyeon Kim",
+    "email": "codechemi@gmail.com",
+    "url": "https://github.com/yeong-hyeon-kim/Table-Highlight"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yeong-hyeon-kim/Table-Highlight/issues"
+  },
+  "homepage": "https://github.com/yeong-hyeon-kim/Table-Highlight#readme"
 }
