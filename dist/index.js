@@ -1,6 +1,6 @@
 var rowsList = [];
 
-export var rowHighlight = function (e, id, child, backColor, foreColor) {
+var rowHighlight = function (e, id, child, backColor, foreColor) {
   let Rows = document.querySelectorAll(id + " " + child);
   let Word = e;
 
