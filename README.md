@@ -31,10 +31,11 @@
 
 ### Row Highlighting
 
-[Example](#Example)
+- 다음 예제를 [예제(Example)](#Example)를 참고하세요.
 
 ### Text Highlighting
 
+- 찾으려는 값을 `<td>` 태그 안 `<div>` 태그에 포함해야합니다.
 - To use this feature, you must have the value you want to find in the `<div>` tag.
 
 ```html
@@ -80,3 +81,5 @@
 - You comply with the following licenses and can find more information in the [License](./License)
 
 ## 📖 비고(Remark)
+
+- 문의사항(Issues)은 [이곳](https://github.com/yeong-hyeon-kim/Table-Highlight/issues)을 참고해주세요.
